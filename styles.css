@@ -1,6 +1,7 @@
 body {
   background-color: #ffffff;
   font-family: "Roboto", sans-serif;
+  color: #434455;
 }
 .logo {
   color: #2e2f42;
@@ -33,7 +34,6 @@ body {
   letter-spacing:3%;
 }
 .adres {
-  color: #434455;
   list-style-type: none;
   font-weight: 400;
   font-size: 1em;
@@ -46,7 +46,7 @@ body {
 }
 .adres a{
     text-decoration: none;
-    color: #434455;
+    color:#434455;
 }
 .section-one{
   background-color: #2E2F42;
@@ -81,7 +81,6 @@ body {
   initial-letter: 2%;
 }
 .section-two p{
-   color:#434455;
    font-weight: 400;
    font-size: 16px;
    line-height: 24px;
@@ -109,7 +108,6 @@ body {
   letter-spacing: 2%;
 }
 .section-our-team p{
-  color:#434455;
   font-weight:400;
   font-size:16px;
   line-height:24px;
@@ -134,7 +132,6 @@ body {
   letter-spacing: 2%;
 }
 .section-four p{
-  color:#434455;
   font-weight:400;
   font-size:16px;
   line-height:24px;
