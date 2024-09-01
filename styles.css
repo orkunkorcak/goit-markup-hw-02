@@ -72,4 +72,31 @@ body {
    line-height: 24px;
    initial-letter: 2%;
 }
-
+.section-our-team{
+  background-color: #F4F4FD;
+}
+.section-our-team h2{
+  color: #2E2F42;
+  font-weight:700px;
+  font-size:36px;
+  line-height:40px;
+  letter-spacing: 2%;
+  text-align: center;
+}
+.section-our-team li{
+  list-style-type: none;
+}
+.section h3{
+  color:#2E2F42;
+  font-weight:500px;
+  font-size:20px;
+  line-height:24px;
+  letter-spacing: 2%;
+}
+.section-our-team p{
+   color:#434455;
+  font-weight:400;
+  font-size:16px;
+  line-height:24px;
+  letter-spacing: 2%;
+}
