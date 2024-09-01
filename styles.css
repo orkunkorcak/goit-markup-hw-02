@@ -33,3 +33,24 @@ body {
     text-decoration: none;
     color: #434455;
 }
+.section-one{
+  background-color: #2E2F42;
+  Width: 1440px;
+  Height: 600px;
+  text-align: center;
+
+}
+.h1{
+  color: #FFFFFF;
+  Weight:700px;
+  Size:56px;
+  line-height:60px;
+  letter-spacing: 2%;
+  text-align: center;
+}
+.button{
+  background-color: #4D5AE5;
+  color: #ffffff;
+  width:169px ;
+  height:56px ;
+}
