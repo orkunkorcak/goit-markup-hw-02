@@ -1,21 +1,36 @@
 body {
   background-color: #ffffff;
-  font-family: "roboto", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
-.nav {
+.logo {
   color: #2e2f42;
   list-style-type: none;
   font-weight: 500;
   font-size: 1em;
   line-height: 24px;
   initial-letter: 2%;
+  text-decoration: none;
+}
+.web-header{
+    color: #4D5AE5;
+}
+.studio-header{
+  color:#2E2F42;
+}
+.nav {
+  list-style-type: none;
 }
 .nav :hover,
 .nav :focus {
   color: #404bbf;
 }
 .nav a{
-   text-decoration: none;
+  font-family:"Ralewey" sans-serif;
+  text-decoration: none;
+  font-weight:700px;
+  font-size:18px;
+  line-height:21px;
+  letter-spacing:3%;
 }
 .adres {
   color: #434455;
@@ -128,6 +143,20 @@ body {
 .footer {
   background-color: #2E2F42;
   color:#ffffff;
+}
+.footer a{
+  font-family:"Ralewey" sans-serif;
+  text-decoration: none;
+  font-weight:700px;
+  font-size:18px;
+  line-height:21px;
+  letter-spacing:3%;
+}
+.web{
+  color: #4D5AE5;
+}
+.studio{
+  color:#F4F4FD;
 }
 .footer p{
   font-weight:400;
