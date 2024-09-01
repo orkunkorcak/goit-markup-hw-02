@@ -30,7 +30,7 @@ body {
   text-decoration: none;
   font-weight:700px;
   font-size:18px;
-  line-height:21px;
+  line-height: 1.3125em;
   letter-spacing:3%;
 }
 .adres {
@@ -59,7 +59,7 @@ body {
   color: #FFFFFF;
   font-weight:700px;
   font-size:56px;
-  line-height:60px;
+  line-height:3.75em;
   letter-spacing: 2%;
   text-align: center;
 }
@@ -77,13 +77,13 @@ body {
   color:#2E2F42;
   font-weight: 500;
   font-size: 20 px;
-  line-height: 24px;
+  line-height: 1.5em;
   initial-letter: 2%;
 }
 .section-two p{
    font-weight: 400;
    font-size: 16px;
-   line-height: 24px;
+   line-height: 1.5em;
    initial-letter: 2%;
 }
 .section-our-team{
@@ -93,7 +93,7 @@ body {
   color: #2E2F42;
   font-weight:700px;
   font-size:36px;
-  line-height:40px;
+  line-height:2.5em;
   letter-spacing: 2%;
   text-align: center;
 }
@@ -104,20 +104,20 @@ body {
   color:#2E2F42;
   font-weight:500px;
   font-size:20px;
-  line-height:24px;
+  line-height:1.5em;
   letter-spacing: 2%;
 }
 .section-our-team p{
   font-weight:400;
   font-size:16px;
-  line-height:24px;
+  line-height:1.5em;
   letter-spacing: 2%;
 }
 .section-four h2{
   color: #2E2F42;
   font-weight:700px;
   font-size:36px;
-  line-height:40px;
+  line-height:2.5em;
   letter-spacing: 2%;
   text-align: center;
 }
@@ -128,13 +128,13 @@ body {
   color:#2E2F42;
   font-weight:500px;
   font-size:20px;
-  line-height:24px;
+  line-height:1.5em;
   letter-spacing: 2%;
 }
 .section-four p{
   font-weight:400;
   font-size:16px;
-  line-height:24px;
+  line-height:1.5em;
   letter-spacing: 2%;
 }
 .footer {
@@ -146,7 +146,7 @@ body {
   text-decoration: none;
   font-weight:700px;
   font-size:18px;
-  line-height:21px;
+  line-height:1.3125em;
   letter-spacing:3%;
 }
 .web{
@@ -158,6 +158,6 @@ body {
 .footer p{
   font-weight:400;
   font-size:16px;
-  line-height:24px;
+  line-height:1.5em;
   letter-spacing: 2%;
 }
