@@ -86,7 +86,7 @@ body {
 .section-our-team li{
   list-style-type: none;
 }
-.section h3{
+.section-our-team h3{
   color:#2E2F42;
   font-weight:500px;
   font-size:20px;
@@ -94,7 +94,32 @@ body {
   letter-spacing: 2%;
 }
 .section-our-team p{
-   color:#434455;
+  color:#434455;
+  font-weight:400;
+  font-size:16px;
+  line-height:24px;
+  letter-spacing: 2%;
+}
+.section-four h2{
+  color: #2E2F42;
+  font-weight:700px;
+  font-size:36px;
+  line-height:40px;
+  letter-spacing: 2%;
+  text-align: center;
+}
+.section-four li{
+  list-style-type: none;
+}
+.section-four h3{
+  color:#2E2F42;
+  font-weight:500px;
+  font-size:20px;
+  line-height:24px;
+  letter-spacing: 2%;
+}
+.section-four p{
+  color:#434455;
   font-weight:400;
   font-size:16px;
   line-height:24px;
