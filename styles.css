@@ -42,8 +42,8 @@ body {
 }
 .h1{
   color: #FFFFFF;
-  Weight:700px;
-  Size:56px;
+  font-weight:700px;
+  font-size:56px;
   line-height:60px;
   letter-spacing: 2%;
   text-align: center;
@@ -54,3 +54,22 @@ body {
   width:169px ;
   height:56px ;
 }
+
+.section-two li {
+  list-style-type: none;
+}
+.section-two h3{
+  color:#2E2F42;
+  font-weight: 500;
+  font-size: 20 px;
+  line-height: 24px;
+  initial-letter: 2%;
+}
+.section-two p{
+   color:#434455;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 24px;
+   initial-letter: 2%;
+}
+
