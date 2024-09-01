@@ -1,29 +1,35 @@
-body{
-    background-color: #ffffff;
-    font-family: "roboto",sans-serif;
+body {
+  background-color: #ffffff;
+  font-family: "roboto", sans-serif;
 }
-.nav{
-    color: #2E2F42;
-    list-style-type: none;
-    text-decoration: none;
-    font-weight: 500;
-    font-size: 1em;
-    line-height: 24px;
-    initial-letter: 2%;
+.nav {
+  color: #2e2f42;
+  list-style-type: none;
+  font-weight: 500;
+  font-size: 1em;
+  line-height: 24px;
+  initial-letter: 2%;
 }
 .nav :hover,
-.nav :focus{
-    color: #404BBF;
+.nav :focus {
+  color: #404bbf;
 }
-.adres{
-    color: #434455;
-    list-style-type: none;
-    font-weight: 400;
-    font-size: 1em;
-    line-height: 24px;
-    initial-letter: 2%;
+.nav a{
+   text-decoration: none;
+}
+.adres {
+  color: #434455;
+  list-style-type: none;
+  font-weight: 400;
+  font-size: 1em;
+  line-height: 24px;
+  initial-letter: 2%;
 }
 .adres :hover,
-.adres :focus{
-    color: #404BBF;
+.adres :focus {
+  color: #404bbf;
+}
+.adres a{
+    text-decoration: none;
+    color: #434455;
 }
