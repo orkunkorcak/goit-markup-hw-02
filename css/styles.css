@@ -77,6 +77,10 @@ body {
   height:56px ;
   cursor: pointer;
 }
+.button :hover,
+.button :focus{
+  background-color:#404BBF;
+}
 
 .section-two li {
   list-style-type: none;
@@ -102,6 +106,10 @@ body {
 .section-our-team li{
   list-style-type: none;
 }
+.section-our-team img{
+  width:264px;
+  height:260px;
+}
 
 .section-our-team p{
   font-weight:400;
@@ -119,6 +127,10 @@ body {
 }
 .section-four li{
   list-style-type: none;
+}
+.section-four img{
+  width: 360px;
+  height: 300px;
 }
 
 .section-four p{
