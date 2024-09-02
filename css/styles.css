@@ -70,15 +70,17 @@ body {
   letter-spacing: 2%;
   text-align: center;
 }
-.button{
+.order-button{
   background-color: #4D5AE5;
   color: #ffffff;
   width:169px ;
   height:56px ;
   cursor: pointer;
 }
-.button :hover,
-.button :focus{
+.order-button:hover{
+  background-color:#404BBF;
+}
+.order-button:focus{
   background-color:#404BBF;
 }
 
