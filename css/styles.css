@@ -15,6 +15,11 @@ body {
   initial-letter: 2%;
   text-decoration: none;
 }
+.header{
+  width: 1440px;
+  height: 72px;
+  display: flex;
+}
 .web-header{
     color: #4D5AE5;
 }
